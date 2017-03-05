@@ -25,3 +25,12 @@ I initially wanted to use R, but decided against it for the following reasons:
 + R is hard to install on Raspbian
 + R isn't exactly as user-friendly as Python
 
+# Design Focus
+
+When working on this project, some of the principles that should be at the forefront of thinking are:
+
++ Modularization
++ Customization
++ Light-weight code
++ Thorough documentation
+

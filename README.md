@@ -33,3 +33,12 @@ Check out these resources:
 [Basic design overview](https://github.com/EvanKaeding/dashberry-pi/blob/master/docs/dashberry-pi-overview.png)
 
 [Tools and methods](https://github.com/EvanKaeding/dashberry-pi/blob/master/docs/design-ideas.md)
+
+# Want to help?
+
+Awesome! Make sure you've taken a good look at the references above first. Here are some of the questions that we still need to answer:
+
++ What are the elements of an MPV? (minimum viable product)
++ Should the dashboard be interactive? If so, what's the best way to accomplish this?
++ What's the best way to transmit sensor data to the Raspberry Pi?
+
