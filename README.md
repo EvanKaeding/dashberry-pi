@@ -25,3 +25,11 @@ The vision for Dashberry Pi is to provide a framework and set of modules for cre
 + Package tracking
 
 If you want to suggest more, shoot me a DM and I'll add it to the list.
+
+# Want to learn more?
+
+Check out these resources:
+
+[Basic design overview](https://github.com/EvanKaeding/dashberry-pi/blob/master/docs/dashberry-pi-overview.png)
+
+[Tools and methods](https://github.com/EvanKaeding/dashberry-pi/blob/master/docs/design-ideas.md)
