@@ -6,10 +6,11 @@ This will be the back-bone of the Dashberry Pi. Tasks handled by the Scheduler w
 
 # Configuration
 
-The scheduler will be configured using a yaml file. A separate configuration file is preferable to hard-coded values for lots of reasons (ease of customization, ability to add a GUI config menu in the future, etc.) yaml is preferable over JSON and other config file variants because:
+The scheduler will be configured using a JSON file. A separate configuration file is preferable to hard-coded values for lots of reasons (ease of customization, ability to add a GUI config menu in the future, etc.) JSON is preferable over yaml and other config file variants because:
 
-+ yaml is generally better for human reading
-+ Although JSON is considered faster, the file contents are stored and accessed locally, so network latency is not a concern
-+ yaml and Python tend to work better together due to shared indentation schemes
++ JSON is ubiquitous
++ JSON is light and fast
++ JSON is human readable
++ We don't really need any of the specialized functionality associated with yaml files (serializing native arbitrary data structures)
 
 
